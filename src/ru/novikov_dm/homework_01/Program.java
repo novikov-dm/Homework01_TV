@@ -1,4 +1,4 @@
-package ru.novikov_dm;
+package ru.novikov_dm.homework_01;
 
 public class Program {
     private String title;
